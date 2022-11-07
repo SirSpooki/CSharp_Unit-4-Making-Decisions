@@ -7,7 +7,7 @@ class GreenvilleRevenue
    {
      WriteLine("Enter number of contestants this year: ");
      int contCurrYear = Convert.ToInt32(ReadLine());
-     WriteLine("Enter number of contestants last year: ")
+     WriteLine("Enter number of contestants last year: ");
      int contLastYear = Convert.ToInt32(ReadLine());
 
      double Profit = contLastYear * 25;
